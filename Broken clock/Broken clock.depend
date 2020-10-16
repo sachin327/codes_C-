@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589695918 source:c:\users\hp\documents\broken clock\main.cpp
+	<iostream>
+	<math.h>
+
